@@ -1,0 +1,6 @@
+@RastreadorDeCalorias.API_HostAddress = http://localhost:5013
+
+GET {{RastreadorDeCalorias.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
